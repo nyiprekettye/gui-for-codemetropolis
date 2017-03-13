@@ -1,0 +1,30 @@
+márc. 12, 2017 1:25:43 DU codemetropolis.toolchain.commons.util.FileLogger logError
+SEVERE: Incorrect command line arguments.
+java.lang.IllegalArgumentException
+	at codemetropolis.toolchain.converter.Main.main(Main.java:26)
+
+márc. 12, 2017 1:37:00 DU codemetropolis.toolchain.commons.util.FileLogger logError
+SEVERE: Incorrect command line arguments.
+java.lang.IllegalArgumentException
+	at codemetropolis.toolchain.converter.Main.main(Main.java:26)
+
+márc. 12, 2017 1:39:36 DU codemetropolis.toolchain.commons.util.FileLogger logError
+SEVERE: Incorrect command line arguments.
+java.lang.IllegalArgumentException
+	at codemetropolis.toolchain.converter.Main.main(Main.java:26)
+
+márc. 12, 2017 1:40:10 DU codemetropolis.toolchain.commons.util.FileLogger logError
+SEVERE: Incorrect command line arguments.
+java.lang.IllegalArgumentException
+	at codemetropolis.toolchain.converter.Main.main(Main.java:26)
+
+márc. 12, 2017 1:42:33 DU codemetropolis.toolchain.commons.util.FileLogger logError
+SEVERE: Incorrect command line arguments.
+java.lang.IllegalArgumentException
+	at codemetropolis.toolchain.converter.Main.main(Main.java:26)
+
+márc. 12, 2017 1:43:09 DU codemetropolis.toolchain.commons.util.FileLogger logError
+SEVERE: Incorrect command line arguments.
+java.lang.IllegalArgumentException
+	at codemetropolis.toolchain.converter.Main.main(Main.java:26)
+
